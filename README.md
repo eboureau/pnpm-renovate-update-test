@@ -1,0 +1,1 @@
+# pnpm-renovate-update-test
