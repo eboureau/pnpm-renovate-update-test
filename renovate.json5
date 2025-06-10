@@ -1,0 +1,9 @@
+{
+  baseBranches: ["master"],
+  labels: ["dependencies", "renovate"],
+  dependencyDashboard: true,
+  constraints: {
+    pnpm: "10.x",
+  },
+  packageRules: [],
+}
