@@ -18,7 +18,7 @@ importers:
     dependencies:
       semver:
         specifier: ^7.7.0
-        version: 7.7.0
+        version: 7.7.2
 
 packages:
 
@@ -111,8 +111,8 @@ packages:
     resolution: {integrity: sha512-ypGJsmGtdXUOeM5u93TyeIEfEhM6s+ljAhrk5vAvSx8uyY/02OvrZnA0YNGUrPXfpJMgI1ODd3nwz8Npx4O4cg==}
     engines: {node: 20 || >=22}
 
-  semver@7.7.0:
-    resolution: {integrity: sha512-DrfFnPzblFmNrIZzg5RzHegbiRWg7KMR7btwi2yjHwx06zsUbO5g613sVwEV7FTwmzJu+Io0lJe2GJ3LxqpvBQ==}
+  semver@7.7.2:
+    resolution: {integrity: sha512-RF0Fw+rO5AMf9MAyaRXI4AV0Ulj5lMHqVxxdSgiVbixSCXoEmmX/jk0CuJw4+3SqroYO9VoUh+HcuJivvtJemA==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -241,7 +241,7 @@ snapshots:
       lru-cache: 11.1.0
       minipass: 7.1.2
 
-  semver@7.7.0: {}
+  semver@7.7.2: {}
 
   shebang-command@2.0.0:
     dependencies:
